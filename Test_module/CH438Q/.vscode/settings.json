@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "CH438UART0.C": "cpp",
+        "CH438UART7.C": "cpp",
+        "CH438UART2.C": "cpp",
+        "CH438UART5.C": "cpp",
+        "CH438UART1.C": "cpp",
+        "CH438UART3.C": "cpp",
+        "CH438UART4.C": "cpp",
+        "CH438UART6.C": "cpp",
+        "CH438INC.H": "cpp",
+        "CH438UART0.H": "cpp"
+    }
+}
